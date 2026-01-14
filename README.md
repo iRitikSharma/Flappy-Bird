@@ -1,11 +1,61 @@
-# Flappy-Bird
-Created a “Flappy Bird Game” using Python Language
-Prerequisite:-
-The prerequisite of this project is the basic knowledge of python.
-For this project, we are going to use the Virtual Studio Code IDE and the pygame module. Pygame is a library that is used in creating games in Python. It has four important things.
-1.Game Loop
-2.Events
-3.Sprites
-4.Sound
-All of these four topics will be discussed in this tutorial.
-When you complete this project, you will be able to create more games with more interesting features and concepts. After completing this project, you will be able to create its executable file which you can share with your friends or even use in interviews for showing your python skills.
+# 🕹️ Flappy Bird Clone
+
+A browser‑based implementation of the classic **Flappy Bird** game built using **HTML, CSS, and JavaScript**. Fly through the pipes and try to beat your high score!
+
+## 🚀 Game Overview
+
+Flappy Bird is a simple yet addictive game where the player controls a bird that automatically falls due to gravity. The goal is to tap or press space to keep the bird in the air and pass through as many pipe obstacles as possible without crashing.
+
+## 🎮 Features
+
+- Classic Flappy Bird gameplay
+- Click or Press Space to flap
+- Moving pipes with random gaps
+- Score tracking
+- Simple and responsive browser interface
+
+## 📁 Project Structure
+
+Flappy-Bird/
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+│ └── (game assets)
+└── README.md
+
+
+## 🛠️ How to Play
+
+1. Clone the repository:
+```bash
+git clone https://github.com/iRitikSharma/Flappy-Bird.git
+```
+2. Navigate to the project folder:
+```bash
+cd Flappy-Bird
+```
+3.Open index.html in your browser to start playing.
+
+📌 Notes
+This is a front‑end only game — no backend or server is required.
+Works in modern browsers (Chrome, Firefox, Edge, etc.).
+Add your own art or sound effects to enhance the game!
+
+💡 Future Improvements
+Add sound effects / background music
+Store high scores using localStorage
+Add mobile touch controls
+Add levels or difficulty settings
+
+👤 Author
+Ritik Sharma
+https://github.com/iRitikSharma
+
+⭐ Support
+If you enjoy this project, please give it a ⭐ on GitHub!
+
+📜 License
+This project is open‑source and free to use.
